@@ -1,0 +1,60 @@
+{
+  "_args": [
+    [
+      "https://github.com/angular-dashboard-framework/adf-structures-base.git",
+      "D:\\Projets\\jhipster\\assu"
+    ]
+  ],
+  "_from": "git+https://github.com/angular-dashboard-framework/adf-structures-base.git",
+  "_id": "adf-structures-base@0.1.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/adf-structures-base",
+  "_phantomChildren": {},
+  "_requested": {
+    "hosted": {
+      "directUrl": "https://raw.githubusercontent.com/angular-dashboard-framework/adf-structures-base/master/package.json",
+      "gitUrl": "git://github.com/angular-dashboard-framework/adf-structures-base.git",
+      "httpsUrl": "git+https://github.com/angular-dashboard-framework/adf-structures-base.git",
+      "shortcut": "github:angular-dashboard-framework/adf-structures-base",
+      "ssh": "git@github.com:angular-dashboard-framework/adf-structures-base.git",
+      "sshUrl": "git+ssh://git@github.com/angular-dashboard-framework/adf-structures-base.git",
+      "type": "github"
+    },
+    "name": null,
+    "raw": "https://github.com/angular-dashboard-framework/adf-structures-base.git",
+    "rawSpec": "https://github.com/angular-dashboard-framework/adf-structures-base.git",
+    "scope": null,
+    "spec": "git+https://github.com/angular-dashboard-framework/adf-structures-base.git",
+    "type": "hosted"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "git+https://github.com/angular-dashboard-framework/adf-structures-base.git#4e30655ccce440e62aee56a72e48d9c5ed6885ee",
+  "_shasum": "d60d06fe6ea03e8df1ca73d752336338b453740a",
+  "_shrinkwrap": null,
+  "_spec": "https://github.com/angular-dashboard-framework/adf-structures-base.git",
+  "_where": "D:\\Projets\\jhipster\\assu",
+  "dependencies": {},
+  "description": "Base Structures for the [angular-dashboard-framework](https://github.com/sdorra/angular-dashboard-framework).",
+  "devDependencies": {
+    "del": "^1.1.1",
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2",
+    "gulp-jshint": "^1.10.0",
+    "gulp-load-plugins": "^0.9.0",
+    "gulp-ng-annotate": "^0.5.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.5.1",
+    "gulp-uglify": "^1.1.0",
+    "jshint-stylish": "^1.0.1",
+    "ng-annotate-adf-plugin": "^0.1.2"
+  },
+  "gitHead": "4e30655ccce440e62aee56a72e48d9c5ed6885ee",
+  "name": "adf-structures-base",
+  "optionalDependencies": {},
+  "readme": "# adf-structures-base\r\n\r\nBase Structures for the [angular-dashboard-framework](https://github.com/sdorra/angular-dashboard-framework).\r\n\r\nThe following strcutures are part of the adf-structures-base package:\r\n\r\n* 12/4-4-4\r\n* 12/6-6\r\n* 12/6-6/12\r\n* 3-9 (12/6-6)\r\n* 4-8\r\n* 6-6\r\n",
+  "readmeFilename": "README.md",
+  "version": "0.1.1"
+}
